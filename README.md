@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Lokesh Kumar Reddy C
 - 👀 I’m interested in Python programming and Data Science
-- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on new python projects
 - 📫 How to reach me lokeshkumarreddy.c@gmail.com
 
