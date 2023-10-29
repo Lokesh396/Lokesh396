@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokesh396&label=Profile%20views&color=0e75b6&style=flat" alt="lokesh396" /> </p>
 
-- 🌱 I’m currently learning **react, node js**
+- 🌱 I’m currently working on  **DSA in python**
 
 - 💬 Ask me about **python, javscript**
 
