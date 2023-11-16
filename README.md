@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/Lokesh396/Lokesh396/blob/main/Frame%201.png)](https://portfolio-peach-eight-29.vercel.app/)
+[![MasterHead](https://github.com/Lokesh396/Lokesh396/blob/main/Frame%201.png)](https://www.lokeshkrportfolio.com/)
 
 <h1 align="center">Hi 👋, I'm C Lokesh Kumar Reddy</h1>
 <h3 align="center">A passionate Mern Stack developer from India</h3>
@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **python, javscript**
 
-- 📫 How to reach me **lokeshkumarreddy.c@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
+
+- 📫 How to reach me **lokeshkumarreddy.c@gmail.com**
 <p align="left">
 </p>
 
